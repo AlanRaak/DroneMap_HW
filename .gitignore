@@ -1,0 +1,10 @@
+*.db
+*.o
+*.m
+*.png
+
+logs/
+
+.vscode/
+
+main
