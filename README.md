@@ -5,7 +5,7 @@ The `main.cpp` file generates objects and stores relevant data in an SQLite data
 
 `g++ main.cpp -o main -lsqlite3 && ./main`
 
-**Dependencies:** Ensure SQLite might not work as is. For bulding your own follow the instructions [here](https://www.tutorialspoint.com/sqlite/sqlite_installation.htm).
+**Dependencies:** SQLite might not work as is. For bulding your own follow the instructions [here](https://www.tutorialspoint.com/sqlite/sqlite_installation.htm).
 
 ### Python Component (API_app.py)
 The `API_app.py` serves as an API app that handles API calls. Run it with:
